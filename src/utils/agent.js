@@ -1,8 +1,8 @@
 import superagent from "superagent";
 
 export const imageurl = "http://localhost:7000/img/";
-const base_url = "http://localhost:7000";
-// const base_url = "http://13.232.167.189:7000";
+// const base_url = "http://localhost:7000";
+const base_url = "http://13.232.167.189:7000";
 
 const tokenPlugin = (req) => {
   var token = localStorage.getItem("auth-key");
