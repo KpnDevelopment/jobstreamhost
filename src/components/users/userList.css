@@ -1,0 +1,47 @@
+button {
+  padding: 0.8em;
+}
+.basediv {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.card-user {
+  display: flex;
+}
+.formmodal {
+  background-position: center;
+  transition: 0.4 ease-out;
+  padding: 20px;
+}
+.formmodal input {
+  padding: 10px;
+  width: fit-content;
+  display: inline-block;
+  border-radius: 0px;
+}
+.formmodal .image {
+  max-width: 50;
+}
+.formmodal p {
+  font-size: 20px;
+  font-weight: 700;
+}
+form {
+  padding: 30px;
+}
+form button {
+  border-radius: 40px;
+  padding: 10px;
+  width: 20%;
+  background-color: rgb(31, 37, 54);
+  margin-top: 10px;
+}
+.dashcards .container {
+  margin-left: 50px 0;
+  padding: 20px;
+}
+
+.dashcards .card {
+  margin: 0 2% !important;
+  border-bottom: 10px solid rgba(0, 0, 255);
+}
