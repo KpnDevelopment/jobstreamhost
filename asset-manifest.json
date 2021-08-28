@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jobstreamhost/static/css/main.74d8b7c4.chunk.css",
+    "main.js": "/jobstreamhost/static/js/main.12df9737.chunk.js",
+    "main.js.map": "/jobstreamhost/static/js/main.12df9737.chunk.js.map",
+    "runtime-main.js": "/jobstreamhost/static/js/runtime-main.784292ba.js",
+    "runtime-main.js.map": "/jobstreamhost/static/js/runtime-main.784292ba.js.map",
+    "static/css/2.1e43afe1.chunk.css": "/jobstreamhost/static/css/2.1e43afe1.chunk.css",
+    "static/js/2.ee8d945d.chunk.js": "/jobstreamhost/static/js/2.ee8d945d.chunk.js",
+    "static/js/2.ee8d945d.chunk.js.map": "/jobstreamhost/static/js/2.ee8d945d.chunk.js.map",
+    "index.html": "/jobstreamhost/index.html",
+    "static/css/2.1e43afe1.chunk.css.map": "/jobstreamhost/static/css/2.1e43afe1.chunk.css.map",
+    "static/css/main.74d8b7c4.chunk.css.map": "/jobstreamhost/static/css/main.74d8b7c4.chunk.css.map",
+    "static/js/2.ee8d945d.chunk.js.LICENSE.txt": "/jobstreamhost/static/js/2.ee8d945d.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/jobstreamhost/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.784292ba.js",
+    "static/css/2.1e43afe1.chunk.css",
+    "static/js/2.ee8d945d.chunk.js",
+    "static/css/main.74d8b7c4.chunk.css",
+    "static/js/main.12df9737.chunk.js"
+  ]
+}
